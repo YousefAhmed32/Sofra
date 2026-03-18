@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+
+  <!-- Gold circle -->
+  <circle cx="256" cy="256" r="240" fill="#D6A15A"/>
+
+  <!-- Fork -->
+  <g stroke="white" stroke-width="24" stroke-linecap="round" fill="none">
+    <line x1="190" y1="150" x2="190" y2="240"/>
+    <line x1="160" y1="150" x2="160" y2="240"/>
+    <line x1="220" y1="150" x2="220" y2="240"/>
+    <line x1="190" y1="240" x2="190" y2="350"/>
+  </g>
+
+  <!-- Knife -->
+  <path d="
+    M320 150
+    C380 150 380 240 330 260
+    L330 350
+  "
+  stroke="white"
+  stroke-width="24"
+  stroke-linecap="round"
+  fill="none"/>
+
+</svg>
